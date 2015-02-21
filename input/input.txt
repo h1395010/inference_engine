@@ -1,0 +1,7 @@
+'prevents'('scurvy', 'vitamin C').
+'contains'('vitamin C', 'orange').
+'contains'('vitamin C', 'sauerkraut').
+'is a'('fruit', 'orange').
+'improves'('health', 'fruit').
+'contains'('vitamin C', 'orange').
+'improves'('health', 'fruit').
